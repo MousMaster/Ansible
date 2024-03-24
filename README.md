@@ -31,6 +31,5 @@ Les tâches pour installer Docker et Python sont incluses dans `tasks/install-do
 - Créent et démarrent un conteneur Docker pour le serveur Apache.
 - Attendent que le conteneur Docker soit opérationnel et que le site Web soit accessible.
 
-## Tests
-Les tests pour ce rôle sont définis dans `tests/test.yml`, avec un inventaire de test spécifié dans `tests/inventory`. Vous pouvez exécuter ces tests pour valider la fonctionnalité du rôle dans votre environnement.
+
 
